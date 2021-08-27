@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pramod-yaadv
-- 👀 I’m interested in Coding, find Solution & Yoga.
-- 🌱 I’m currently working on AI & ML.
+- 👀 I’m interested in Coding, find Solution.
 - 📫 Reach me @ pramod.yaadv@gmail.com
 
 <!---
