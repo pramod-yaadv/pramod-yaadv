@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pramod Yadav (pramod.yaadv@gmail.com)  [Resume](https://github.com/pramod-yaadv/pramod-yaadv/blob/main/Pramod_Yadav_Resume_3.0.pdf)
+- 👋 Hi, I’m Pramod Yadav (pramod.yaadv@gmail.com)  To Know more, [Download Resume](https://github.com/pramod-yaadv/pramod-yaadv/blob/main/Pramod_Yadav_Resume_3.0.pdf)
 
 Solution Architect having 9+ Years of extensive experience in designing & developing innovative IT business solution. Skilled in Secure, Reliable & Scalable System design, Product Development, SaaS Service, System Integration, Application optimization. Having the Core competencies as Critical role player, Team Leadership.
 
