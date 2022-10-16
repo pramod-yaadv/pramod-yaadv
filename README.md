@@ -37,8 +37,7 @@ Others Tool & Library: Caffine, Apache Kafka, Traefik, Consul, Ribbon, TIKA, Sta
     • Delivery Management System – Delivery management & real-time delivery tracking to support Hyperlocal delivery
 
 # Framework Build
-Integration Engine, Report Builder, Dynamic Schema Manager, MultiCart, Promotion Engine, Cache Manager, 
-CMS Framework
+Integration Engine, Report Builder, Dynamic Schema Manager, MultiCart, Promotion Engine, Cache Manager, API Gateway, CMS Framework
 
 # 
 
