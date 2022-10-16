@@ -4,19 +4,29 @@ Solution Architect having 9+ Years of extensive experience in designing & develo
 
 # Skills: 
 Design Principle: SOLID, Microservice, SOA, Database Design Principle (Sharding, Master-Replica)
- Design Pattern: Singleton, Factory, Builder, Caching, Object Pool, Adapter, Facade, MVC, Strategy, Chain of Responsibility
- Programming Languages: Java, Javascript, Assembly, C, TypeScript, R, Python
- Data Persistence: SQL (MySQL, Oracle), NoSQL (Solr, MongoDB), Caching(Redis), File System Storage, Object Storage
+
+Design Pattern: Singleton, Factory, Builder, Caching, Object Pool, Adapter, Facade, MVC, Strategy, Chain of Responsibility
+
+Programming Languages: Java, Javascript, Assembly, C, TypeScript, R, Python
+
+Data Persistence: SQL (MySQL, Oracle), NoSQL (Solr, MongoDB), Caching(Redis), File System Storage, Object Storage
 (S3), Block Storage(EBS)
+
 Cloud Services: Compute (EC2, Lambda, Fargate), Database, DNS(Route53), Messaging(SQS, SNS), CDN(CloudFront),
 IAM, VPC, NoSQL Service, Caching Service, Message Broker
+
 Client Technology & framework: Javascript/Jquery, Ajax, HTML5, Angular v8, XSLT, REST Service, WebSocket, Web
 Worker, Web Storage – local & session
+
 Security: JWT, Oauth2, BasicAuth, XSS measures, OWASP, SSL, JWT, Hashing, Salting, Digest, MFA, Symmetric
+
 Server App Frameworks: Spring, Hibernate, Spring Boot , JSF, Apache CXF
+
 Application Server: JBoss v4.0.2/EAP 6.4.2, Wildfly 8/11/18, Tomcat, Undertow
+
 CICD, DevOps: Jenkins, Jmeter, git, svn, ant, gradle, docker, Kubernetes, SonarQube, Prometheus, ELK
- Others Tool & Library: Caffine, Apache Kafka, Traefik, Consul, Ribbon, TIKA, Stax, Jackson
+
+Others Tool & Library: Caffine, Apache Kafka, Traefik, Consul, Ribbon, TIKA, Stax, Jackson
 
 # Products Engineered
     • Integra [integra.tatacliq.com]– A Middleware and an extensive Enterprise Integration Platform for Application Integration. Design mainly motivated with pipe-filter architectural design principal including workflow, chain of responsibility & Visitor Pattern. It provides easy to build API execution path in runtime by assembling the components categorized as Endpoint, Splitter, Transformer, Enricher, Router, Auditor, Throttler, Authenticator.
